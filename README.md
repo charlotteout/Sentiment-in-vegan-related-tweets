@@ -1,5 +1,7 @@
 # Sentiment-in-vegan-related-tweets
 
+![](./happy_watermelon.png)
+
 This is the final project of Andreas Opedal and me for the course Social Data Science offered at ETH Zurich in the spring semester of 2020. 
 
 In this project, we investigated whether there is an association (in terms of empirical correlation) between the attitude towards vegan diets, proxied by the sentiment of vegan-related tweets, and country level indices like GDP/capita, Human Development Index, Global Innovation Index, Climate Change Performance Index and Future Orientation Index.
